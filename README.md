@@ -1,10 +1,10 @@
 # NeverEnding
-Hinter NeverEnding, verbirgt sich die Idee, oder vielmehr ein Problem das mich an meiner letzten Uni stark beschäftigt hat.
+Hinter NeverEnding, verbirgt sich die Idee, oder vielmehr ein Problem für das ich mich letztes jahr sehr stark intressiert hab.
 Es geht um weg findung in Labyrinthen. 
-In diesem vereinfachten Fall in einem TopDownView 2D Labyrinth das sich verändert, sobald der spieler zuweit vom weg Abkommt.
+In dieser, stark vereinfachten, Variante in einen TopDownView 2D Labyrinth das sich verändert, sobald der spieler zuweit vom weg Abkommt.
 Dazu soll es das ganze zu einer Art wettstreit werden. 
 
 So soll zum beispiel nur der 1. Sieger ausgezeichnet werden, der es geschafft hat das labyrinth zu lösen.
 Und jedesmal wenn der spieler etwas falsch macht wird es komplizierter wieder herraus zu kommen.
 
-Ebenso soll, sofern vorhanden, eine art Leaderboard anzeigen wieviele spieler es gibt und wieviele im Moment am nächsten am ziel sind.
+Ebenso stell ich mir vor das, sofern eine internet Verbindung vorhanden ist, eine art Leaderboard angezeigt wird wieviele spieler es gibt und wie nahe sie im Moment dem ziel sind.
