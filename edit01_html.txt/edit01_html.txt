@@ -4,6 +4,8 @@ Wege zu finden und das Ziel zu erreichen.
 Die Nutzeroberfläche besteht aus einem Kopf, wo das Logo des Spiels angezeigt wird. 
 Darunter soll eine Beschreibung des Spiels dargestellt werden. Dazu gehören Dinge wie :      
 - eine kurze Erklärung, worum es im Spiel geht und                                                                        
-- welches Genre das Spiel hat.                                                                                              Eine Buttonleiste mit Optionen wie die Seite neu laden und die Empfehlung des Spiels 
-( via Email, Facebook, URL link ) wird daneben integriert.                                                                  Das Background der Seite soll eine schlichte Darstellung von dem Spiel zeigen.                     
+- welches Genre das Spiel hat.                                                                                          
+Eine Buttonleiste mit Optionen wie die Seite neu laden und die Empfehlung des Spiels 
+( via Email, Facebook, URL link ) wird daneben integriert.                                                                
+Das Background der Seite soll eine schlichte Darstellung von dem Spiel zeigen.                     
 Unter dem Spielfeld wird ein Box integriert, wo die Spieler eventuell miteinander kommunuzieren können. 
