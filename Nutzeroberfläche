@@ -1,6 +1,6 @@
-In unserem Spiel 'NeverEnding' handelt es sich darum, wie unsere zwei Spieler versuchen in Labyrinthen
-Wege zu finden und das Ziel zu erreichen. 
-Die Nutzeroberfläche besteht aus einem Kopf, wo das Logo des Spiels angezeigt wird. 
+In unserem Spiel 'NeverEnding' handelt es sich darum, das ein Spieler versucht einen Weg durch ein Labyrinthen
+zu finden um den Ausgang zu erreichen.
+Die Nutzeroberfläche besteht aus einem Kopf, wo das Logo des Spiels angezeigt wird.
 Darunter soll eine Beschreibung des Spiels dargestellt werden. Dazu gehören Dinge wie :      
 - eine kurze Erklärung, worum es im Spiel geht und                                                                       
 - welches Genre das Spiel hat.                                                                                                      
