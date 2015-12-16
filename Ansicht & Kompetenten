@@ -1,0 +1,57 @@
+<html>
+
+	  <head>
+	  <title>NeverEnding</title>
+	  </head>
+
+	  <body>
+	  <p><b><FONT SIZE="9">NeverEnding - Finde deinen Weg</p></b></FONT>
+	  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/MAZE_40x20_DFS_no_deadends.png/320px-MAZE_40x20_DFS_no_deadends.png"  style= "float:right; width="250" height="250" />
+	 <p><FONT SIZE="4"> Wenn du wuesstest, was dich bei NeverEnding erwartet, wuerdest du lieber die Seite wechseln und lieber ein Spiel waehlen, wo man auf seine Katze aufpassen muss! 
+	 Die dunkelste Wege des Labyrinth sind der Albtraum jedes Passanten. Sie sind steinig, verwirrend und voller Gefahr. Das ist noch lange nicht alles! Ausser dir sind noch andere Spieler unterwegs, die alle nur das eine Ziel wollen. Streng dich an, vielleicht bist du der Gewinner!</p></FONT> 
+	 
+	  <h1><FONT SIZE="3"> Steuerung: </h1></FONT>
+	  <p>Tastatur, Bewege dich mit den Cursor-Tasten, Ziel ist es, schneller als die anderen Spieler das Ziel zu erreichen. Achte darauf, dass du nicht alleine bist und deine Gegner verdammt gut sind! Viel Spass!</p>
+	  
+
+<div id="share-buttons">
+
+    
+
+    
+    <!-- Email -->
+    <a href="mailto:?Subject=Simple Share Buttons&amp;Body=I%20saw%20this%20and%20thought%20of%20you!%20 http://users.skynet.be/fb298422/ProgramFOX/HTML5/Maze/Maze.html">
+        <img src="https://simplesharebuttons.com/images/somacro/email.png" alt="Email"/>
+    </a>
+ 
+    <!-- Facebook -->
+    <a href="http://www.facebook.com/sharer.php?u=http://users.skynet.be/fb298422/ProgramFOX/HTML5/Maze/Maze.html" target="_blank">
+        <img src="https://simplesharebuttons.com/images/somacro/facebook.png" alt="Facebook" />
+    </a>
+
+<!-- Google+ -->
+    <a href="https://plus.google.com/share?url=http://users.skynet.be/fb298422/ProgramFOX/HTML5/Maze/Maze.html" target="_blank">
+        <img src="https://simplesharebuttons.com/images/somacro/google.png" alt="Google" />
+    </a>
+    <!-- Twitter -->
+    <a href="https://twitter.com/share?url=http://users.skynet.be/fb298422/ProgramFOX/HTML5/Maze/Maze.html" target="_blank">
+        <img src="https://simplesharebuttons.com/images/somacro/twitter.png" alt="Twitter" />
+    </a>
+    
+</div>
+
+
+<embed wmode="transparent" src="http://www.xatech.com/web_gear/chat/chat.swf" quality="high" width="500" height="350" name="chat" FlashVars="id=216106669" align="middle" allowScriptAccess="sameDomain" type="application/x-shockwave-flash" pluginspage="http://xat.com/update_flash.php" /><br><small><a target="_BLANK" href="http://xat.com/web_gear/?cb">Get your own Chat Box!</a> <a target="_BLANK" href="http://xat.com/web_gear/chat/go_large.php?id=216106669">Go Large!</a></small><br>
+
+
+
+
+	  
+	  </body>
+
+	</html>
+	
+	
+	
+	
+	
